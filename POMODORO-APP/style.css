@@ -3,7 +3,7 @@ body{
     font-family:"cursive","pacifico"
 }
 .heading{
-    color:#810000;
+    color:#222831;
 }
 .row{
     width:100%;
@@ -38,7 +38,8 @@ button{
 }
 footer{
     text-align:center;
-    color:#222831;  
+    color:#222831;
+    font-family:"Arial","sans-serif";
 }
 .show_message {
     display: block;
