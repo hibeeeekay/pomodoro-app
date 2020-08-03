@@ -1,4 +1,4 @@
- var minutes = prompt("Input the number of minutes needed for your task(NOTE:number only)","");
+ var minutes = prompt("input the number of minutes needed for your task","");
 var seconds = "00"
 
 var click = new Audio("click.mp3");
