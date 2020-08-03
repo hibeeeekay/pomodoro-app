@@ -1,0 +1,49 @@
+body{
+    background:#e97171;
+    font-family:"cursive","pacifico"
+}
+.heading{
+    color:#810000;
+}
+.row{
+    width:100%;
+}
+.timer{
+    color:#222831;
+    text-align:center;
+    border: 5px solid #e3dfc8;
+    width: 20rem;
+    height:20rem;
+    border-radius: 10rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+button{
+    outline:none;
+}
+.fa-play,
+.fa-redo-alt{
+    color:#810000;
+    border: 2px solid transparent;
+    padding:1rem;
+    border-radius:2rem;
+   
+}
+.fa-play:hover,
+.fa-redo-alt:hover {
+    color:#b2ebf2;
+    border: 1px solid #810000;
+    transition:0.3s ease;   
+}
+footer{
+    text-align:center;
+    color:#222831;  
+}
+.show_message {
+    display: block;
+    padding: 1rem 0;
+    color:#222831;
+    background:#b2ebf2;
+    border-radius:10px;
+}
